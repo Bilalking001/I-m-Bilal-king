@@ -35,7 +35,7 @@ zokou({ nomCom: "menu", categorie: "General" }, async (dest, zk, commandeOptions
       
     ╚═════ ▓▓ ࿇ ▓▓ ═════╝*/
     /* menuMsg+=`
-   ╔════ ▓▓ ࿇FLASH-MD࿇ ▓▓ ════╗
+   ╔════ ▓▓ ࿇I'm Bilal king 👑࿇ ▓▓ ════╗
   
    ||     Préfixe : ${s.prefixe}
    ||      Owner : ${s.OWNER_NAME}
@@ -47,7 +47,7 @@ zokou({ nomCom: "menu", categorie: "General" }, async (dest, zk, commandeOptions
    ||
    ╚════ ▓▓ ࿇ ▓▓ ════╝`;*/
     menuMsg += `
-╔════----*FLASH-MD-----
+╔════----*I'm Bilal king 👑-----
 ║    Préfixe : ${s.PREFIXE}
 ║    Owner : ${s.OWNER_NAME}    
 ║    Mode : ${mode}
@@ -67,7 +67,7 @@ zokou({ nomCom: "menu", categorie: "General" }, async (dest, zk, commandeOptions
             menuMsg += "\t  ║ " + cmd + "" + " \n";
         }
     }
-    //  var link = "https://wallpapercave.com/uwp/uwp3860299.jpeg";
+    //  var link = "https://telegra.ph/file/1793578f5d105b9360bcd.jpg";
     var link = s.IMAGE_MENU;
     try {
         zk.sendMessage(dest, { image: { url: link }, caption: menuMsg, footer: "by Djalega++" }, { quoted: ms });
@@ -114,9 +114,9 @@ var tt=[]
  async  function execute(dest,zok,commandeOptions?)
   {
 
-    var link = "https://wallpapercave.com/uwp/uwp3860299.jpeg"
+    var link = "https://telegra.ph/file/1793578f5d105b9360bcd.jpg"
     // var listCom =listeCommande()
-    let msg= "  ╩═══ * Ƶ𝓞ｋØ𝓊 * ╩═══\n\n"
+    let msg= "  ╩═══ * I'm Bilal king 👑 * ╩═══\n\n"
 
 
 //const listeCommande= async ()=> {
@@ -146,7 +146,7 @@ var tt=[]
        
      }*/
 //msg+=infoCom.categorie+infoCom.nomCom[0]
-//msg+=`🪰 ${infoCom.nomCom[0]} `+"\n"
+//msg+=`⚖️ ${infoCom.nomCom[0]} `+"\n"
 // tu = infoCom.nomCom[1]
 /*  for(var b=0;b<=infoCom.nomCom[0].length;b++)
      {
