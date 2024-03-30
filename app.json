@@ -1,8 +1,8 @@
 {
-  "name":"FLASH-MD",
+  "name":"I'm Bilal king 👑",
   "description":"An easy and simple WhatsApp bot developed by France King",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://telegra.ph/file/dfccbf12397757c321ac4.jpg",
+  "logo":"https://telegra.ph/file/1793578f5d105b9360bcd.jpg",
   "repository":"https://github.com/franceking1/Flash-Md",
   "succes_url":"/",
   "stack":"container",
@@ -17,12 +17,12 @@
     {
       "description":"Your contact status will be read automatically(type yes to active or no to deactive  ; don't write in capital letter)",
       "value":"yes",
-      "required":false
-    }, "AUTO_DOWNLOAD_STATUS":
+      "required": true 
+    }, "AUTO_DOWNLOAD_STATUS": 
     {
       "description":"Your contact status will be download automatically and send to you(type yes to active or no to deactive ; don't write in capital letter)",
       "value":"yes",
-      "required":false
+      "required": true 
     }
     ,
      "PM_PERMIT" :
@@ -35,15 +35,15 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"FLASH-MD",
+      "value":"I'm Bilal king 👑",
       "required":false
 
     } ,
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://telegra.ph/file/dfccbf12397757c321ac4.jpg",
-      "required":false
+      "value":"https://telegra.ph/file/1793578f5d105b9360bcd.jpg",
+      "required": true 
        
      },
     "PUBLIC_MODE":
@@ -74,14 +74,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "France King"
+    "value": "I'm Bilal king 👑"
   },
     "OWNER_NUMBER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "254757835036"
+    "value": "9203078071982"
   },
     "WARN_COUNT":
   {
